@@ -161,6 +161,8 @@ a {
     margin-bottom: 10px;
 }
 
+/* 4th Section (body 3) */
+
 .body-section-3 {
     display: flex;
     justify-content: center;
@@ -191,6 +193,8 @@ a {
     font-size: 16px;
     color: darkgrey;
 }
+
+/* Footer */
 
 .footer {
     display: flex;
